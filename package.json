@@ -1,0 +1,17 @@
+{
+  "name": "nightmare_aust",
+  "version": "1.0.0",
+  "description": "POC for work",
+  "main": "test.js",
+  "dependencies": {
+    "nightmare": "^2.10.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
